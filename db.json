@@ -1,6 +1,6 @@
 {
   "get": [
-    
+    {"sex": 1}
   ],
   "profile": {
     "sex": 1
